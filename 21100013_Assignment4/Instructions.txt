@@ -1,0 +1,20 @@
+FAILURE TO FOLLOW ANY OF THESE INSTRUCTIONS WILL RESULT IN 0 MARKS SINCE THE AUTOGRADER WILL NOT BE ABLE TO TEST YOUR CODE.
+
+***************************************************************************************************
+	IF THE GRADERS SAY "PERMISSION DENIED" RUN THIS COMMAND IN THE FOLDER:
+		chmod U+X Grader_Q1 	(Or whatever Question's grader is not working)
+***************************************************************************************************
+1- Rename the folder to YourRollNumber_Assignment4. If your roll number is 2021-10-0123, write "21100123_Assignment4".
+   DO NOT CHANGE THE STRUCTURE OF THE REST OF THE FOLDER
+
+2- Zip the whole outer folder, not its contents. Your zip file should contain the folder stated above in point 1 and have the same name
+
+3- Do not delete the cpp files or folders of any questions you haven't started.
+
+4- Use the Graders in each folder to check if your code is working or not.
+
+5- Use a single cout statement for output for each question. It should not be in any loops or if-conditions.
+
+6- Delete the Graders and the PDF before submission.
+
+7- If LMS gives the error that your file size is too big even if it isn't, try uploading through incognito.
